@@ -1,9 +1,9 @@
  
 
-var xz = "/xiazai/Lets-VIP.zip";
+var xz = "https://pub-3b529f594568423ca17dbc6e58f1deb4.r2.dev/Win-vpn_X64.zip";
 
-//可以把   /xiazai/letspn-latest64.zip  这个改成下载地址；https://guoxiauzausj.oss-rg-china-mainland.aliyuncs.com/letspn-latest64.zip
-//可以把   https://guoxiauzausj.oss-rg-china-mainland.aliyuncs.com/letspn-latest64.zip  这个改成文件下载：/xiazai/kuailian.zip
+//可以把   https://pub-3b529f594568423ca17dbc6e58f1deb4.r2.dev/Win-vpn_X64.zip 这个改成下载地址；https://pub-3b529f594568423ca17dbc6e58f1deb4.r2.dev/Win-vpn_X64.zip
+//可以把   https://pub-3b529f594568423ca17dbc6e58f1deb4.r2.dev/Win-vpn_X64.zip  这个改成文件下载：https://pub-3b529f594568423ca17dbc6e58f1deb4.r2.dev/Win-vpn_X64.zip
 
 
 
